@@ -1,8 +1,8 @@
 # SGLT2i-off-target
-#### Workflow
+## Workflow
 ![Workflow](/workflow.png "workflow")
 
-# Directory Structure
+## Directory Structure
 ```
 ├── README.md 
 ├── main.ipynb 
@@ -22,9 +22,12 @@
     ├── interpretation.py 
     └── mapping.py 
 ```
-# Requirements
+## Requirements
 [pandas](https://pypi.org/project/pandas/) \
 [numpy](https://pypi.org/project/numpy/) \
 [scikit-learn](https://scikit-learn.org/stable/) \
 [xgboost](https://pypi.org/project/xgboost/) \
 [scipy](https://pypi.org/project/scipy/) \
+
+## Training and prediction
+main.ipynb 
